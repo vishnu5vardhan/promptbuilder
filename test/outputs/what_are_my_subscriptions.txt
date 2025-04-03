@@ -1,0 +1,36 @@
+Question: What are my subscriptions?
+Intent: subscription_summary (Confidence: 0.90)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their subscriptions. Here's a list of their active subscriptions:
+
+Active subscriptions:
+- NETFLIX: ₹1299.00/month (paid via hdfc_credit)
+- SPOTIFY: ₹299.00/month (paid via hdfc_credit)
+
+Summary:
+- Total number of subscriptions: 2
+- Total monthly cost: 1598
+- Percentage of monthly income: 2.13%
+- Most expensive subscription: NETFLIX: ₹1299.00/month
+- Most recent subscription: NETFLIX (added on 2023-03-15)
+
+Subscription type breakdown:
+- Entertainment: 2
+
+Payment method breakdown:
+- hdfc_credit: 2 subscription(s)
+
+Renewal schedule:
+- NETFLIX: Renews on the 5th of each month
+- SPOTIFY: Renews on the 10th of each month
+
+Based on this information:
+1. Analyze their subscription spending patterns
+2. Identify any potential duplicate or overlapping services
+3. Suggest subscriptions that might be unused or underutilized
+4. Recommend ways to optimize subscription costs
+
+Focus on providing practical advice to help them manage their subscription expenses efficiently. 
+--------------------------------------------------

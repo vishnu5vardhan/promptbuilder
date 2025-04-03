@@ -1,0 +1,202 @@
+[
+  {
+    "id": "tx1001",
+    "date": "2023-03-01",
+    "amount": 75000,
+    "type": "credit",
+    "category": "salary",
+    "description": "SALARY MAR23 ACME CORP",
+    "account": "hdfc_savings",
+    "merchant": "ACME CORP"
+  },
+  {
+    "id": "tx1002",
+    "date": "2023-02-01",
+    "amount": 75000,
+    "type": "credit",
+    "category": "salary",
+    "description": "SALARY FEB23 ACME CORP",
+    "account": "hdfc_savings",
+    "merchant": "ACME CORP"
+  },
+  {
+    "id": "tx1003",
+    "date": "2023-01-01",
+    "amount": 70000,
+    "type": "credit",
+    "category": "salary",
+    "description": "SALARY JAN23 ACME CORP",
+    "account": "hdfc_savings",
+    "merchant": "ACME CORP"
+  },
+  {
+    "id": "tx1004",
+    "date": "2023-03-05",
+    "amount": -15000,
+    "type": "debit",
+    "category": "emi",
+    "description": "HDFC HOME LOAN EMI",
+    "account": "hdfc_savings",
+    "merchant": "HDFC BANK"
+  },
+  {
+    "id": "tx1005",
+    "date": "2023-03-12",
+    "amount": -5000,
+    "type": "debit",
+    "category": "emi",
+    "description": "HDFC CAR LOAN EMI",
+    "account": "hdfc_savings",
+    "merchant": "HDFC BANK"
+  },
+  {
+    "id": "tx1006",
+    "date": "2023-03-15",
+    "amount": -1299,
+    "type": "debit",
+    "category": "subscription",
+    "description": "NETFLIX SUBSCRIPTION",
+    "account": "hdfc_credit",
+    "merchant": "NETFLIX"
+  },
+  {
+    "id": "tx1007",
+    "date": "2023-03-15",
+    "amount": -299,
+    "type": "debit",
+    "category": "subscription",
+    "description": "SPOTIFY SUBSCRIPTION",
+    "account": "hdfc_credit",
+    "merchant": "SPOTIFY"
+  },
+  {
+    "id": "tx1008",
+    "date": "2023-03-10",
+    "amount": -2500,
+    "type": "debit",
+    "category": "food",
+    "description": "ZOMATO ORDER",
+    "account": "icici_credit",
+    "merchant": "ZOMATO"
+  },
+  {
+    "id": "tx1009",
+    "date": "2023-03-12",
+    "amount": -2200,
+    "type": "debit",
+    "category": "food",
+    "description": "SWIGGY ORDER",
+    "account": "icici_credit",
+    "merchant": "SWIGGY"
+  },
+  {
+    "id": "tx1010",
+    "date": "2023-03-15",
+    "amount": -1500,
+    "type": "debit",
+    "category": "food",
+    "description": "SWIGGY ORDER",
+    "account": "icici_credit",
+    "merchant": "SWIGGY"
+  },
+  {
+    "id": "tx1011",
+    "date": "2023-03-18",
+    "amount": -8500,
+    "type": "debit",
+    "category": "shopping",
+    "description": "AMAZON.IN",
+    "account": "hdfc_credit",
+    "merchant": "AMAZON"
+  },
+  {
+    "id": "tx1012",
+    "date": "2023-03-20",
+    "amount": -11500,
+    "type": "debit",
+    "category": "shopping",
+    "description": "AMAZON.IN ELECTRONICS",
+    "account": "hdfc_credit",
+    "merchant": "AMAZON"
+  },
+  {
+    "id": "tx1013",
+    "date": "2023-03-22",
+    "amount": -2000,
+    "type": "debit",
+    "category": "transportation",
+    "description": "UBER RIDES",
+    "account": "icici_credit",
+    "merchant": "UBER"
+  },
+  {
+    "id": "tx1014",
+    "date": "2023-03-25",
+    "amount": -2500,
+    "type": "debit",
+    "category": "transportation",
+    "description": "OLA RIDES",
+    "account": "icici_credit",
+    "merchant": "OLA"
+  },
+  {
+    "id": "tx1015",
+    "date": "2023-03-25",
+    "amount": -12000,
+    "type": "debit",
+    "category": "utilities",
+    "description": "ELECTRICITY BILL",
+    "account": "hdfc_savings",
+    "merchant": "BESCOM"
+  },
+  {
+    "id": "tx1016",
+    "date": "2023-02-05",
+    "amount": -15000,
+    "type": "debit",
+    "category": "emi",
+    "description": "HDFC HOME LOAN EMI",
+    "account": "hdfc_savings",
+    "merchant": "HDFC BANK"
+  },
+  {
+    "id": "tx1017",
+    "date": "2023-02-12",
+    "amount": -5000,
+    "type": "debit",
+    "category": "emi",
+    "description": "HDFC CAR LOAN EMI",
+    "account": "hdfc_savings",
+    "merchant": "HDFC BANK"
+  },
+  {
+    "id": "tx1018",
+    "date": "2023-02-15",
+    "amount": -1299,
+    "type": "debit",
+    "category": "subscription",
+    "description": "NETFLIX SUBSCRIPTION",
+    "account": "hdfc_credit",
+    "merchant": "NETFLIX"
+  },
+  {
+    "id": "tx1019",
+    "date": "2023-03-28",
+    "amount": -45000,
+    "type": "debit",
+    "category": "travel",
+    "description": "MAKEMYTRIP FLIGHT TICKETS",
+    "account": "hdfc_credit",
+    "merchant": "MAKEMYTRIP"
+  },
+  {
+    "id": "tx1020",
+    "date": "2023-03-29",
+    "amount": -25000,
+    "type": "debit",
+    "category": "travel",
+    "description": "AGODA HOTEL BOOKING",
+    "account": "hdfc_credit",
+    "merchant": "AGODA"
+  }
+]

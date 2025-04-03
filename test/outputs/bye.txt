@@ -1,0 +1,11 @@
+Question: Bye
+Intent: goodbye (Confidence: 1.00)
+
+Generated Prompt:
+--------------------------------------------------
+Goodbye! Thank you for using your personal financial assistant.
+
+If you have any more financial questions or need insights about your spending, savings, or investments, feel free to ask me anytime.
+
+Have a great day, and I look forward to helping you maintain financial well-being in the future! 
+--------------------------------------------------

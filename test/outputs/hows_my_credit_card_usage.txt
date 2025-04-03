@@ -1,0 +1,54 @@
+Question: How's my credit card usage?
+Intent: credit_card_usage (Confidence: 0.44)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their credit card usage. Here's their credit card information:
+
+Credit card accounts:
+- HDFC Credit Card:
+  Balance: ₹105000
+  Credit limit: ₹200000
+  Utilization: 52.5%
+  Due date: 2023-04-15
+- ICICI Credit Card:
+  Balance: ₹35000
+  Credit limit: ₹100000
+  Utilization: 35.0%
+  Due date: 2023-04-12
+
+Current month usage:
+- Total spend: 103597
+- Number of transactions: 12
+- Average transaction amount: 8633.083333333334
+
+Spending by category:
+- subscription: ₹2897.00
+- food: ₹6200.00
+- shopping: ₹20000.00
+- transportation: ₹4500.00
+- travel: ₹70000.00
+
+Credit utilization:
+- Total credit limit: 300000
+- Current balance: 140000
+- Credit utilization ratio: 46.7%
+- Recommended max utilization: 30%
+
+Payment information:
+- Next due dates: - HDFC Credit Card: 2023-04-15
+- ICICI Credit Card: 2023-04-12
+- Minimum payments due: - HDFC Credit Card: ₹5250.00
+- ICICI Credit Card: ₹1750.00
+- Interest rates: - HDFC Credit Card: 36.00%
+- ICICI Credit Card: 33.00%
+
+Based on this information:
+1. Assess their credit card usage patterns
+2. Highlight any concerning trends (high utilization, missed payments)
+3. Provide recommendations for better credit card management
+4. Suggest potential savings on interest or fees
+
+Focus on providing actionable advice for managing their credit cards effectively.
+
+--------------------------------------------------

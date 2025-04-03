@@ -1,0 +1,16 @@
+User asked about their salary. Here's their salary information:
+
+Recent salary transactions:
+{salary_transactions}
+
+User profile:
+- Name: {user_name}
+- Monthly income: {monthly_income}
+- Annual income: {annual_income}
+
+Based on the transactions above, analyze their salary pattern, including:
+1. Consistency of their salary credits
+2. Any changes or trends in the salary amount
+3. Which account typically receives their salary
+
+Keep the response concise and focus on answering the original question about their salary situation.

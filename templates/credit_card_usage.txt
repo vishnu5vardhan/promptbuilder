@@ -1,0 +1,31 @@
+User asked about their credit card usage. Here's their credit card information:
+
+Credit card accounts:
+{credit_card_accounts}
+
+Current month usage:
+- Total spend: {total_spend}
+- Number of transactions: {transaction_count}
+- Average transaction amount: {average_transaction}
+
+Spending by category:
+{category_breakdown}
+
+Credit utilization:
+- Total credit limit: {total_credit_limit}
+- Current balance: {current_balance}
+- Credit utilization ratio: {utilization_ratio}%
+- Recommended max utilization: 30%
+
+Payment information:
+- Next due dates: {due_dates}
+- Minimum payments due: {minimum_payments}
+- Interest rates: {interest_rates}
+
+Based on this information:
+1. Assess their credit card usage patterns
+2. Highlight any concerning trends (high utilization, missed payments)
+3. Provide recommendations for better credit card management
+4. Suggest potential savings on interest or fees
+
+Focus on providing actionable advice for managing their credit cards effectively.

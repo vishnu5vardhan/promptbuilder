@@ -1,0 +1,25 @@
+Question: What is my salary?
+Intent: salary_query (Confidence: 0.16)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their salary. Here's their salary information:
+
+Recent salary transactions:
+- Date: 2023-03-01, Amount: ₹75000 (credit), Description: SALARY MAR23 ACME CORP
+- Date: 2023-02-01, Amount: ₹75000 (credit), Description: SALARY FEB23 ACME CORP
+- Date: 2023-01-01, Amount: ₹70000 (credit), Description: SALARY JAN23 ACME CORP
+
+User profile:
+- Name: Rahul Sharma
+- Monthly income: 75000
+- Annual income: 900000
+
+Based on the transactions above, analyze their salary pattern, including:
+1. Consistency of their salary credits
+2. Any changes or trends in the salary amount
+3. Which account typically receives their salary
+
+Keep the response concise and focus on answering the original question about their salary situation.
+
+--------------------------------------------------

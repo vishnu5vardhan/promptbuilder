@@ -1,0 +1,18 @@
+User asked about their spending on {merchant_name}. Here are the relevant transactions:
+
+{merchant_transactions}
+
+Transaction summary:
+- Total spend on {merchant_name}: {total_spend}
+- Number of transactions: {transaction_count}
+- Average transaction amount: {average_transaction}
+- Time period: {start_date} to {end_date}
+- Most used payment method: {most_used_payment_method}
+
+Based on this data, analyze their spending pattern with {merchant_name}:
+1. How frequently they use this merchant
+2. Whether spending is increasing or decreasing
+3. What percentage of their total spending this represents
+4. Any recommendations based on spending patterns
+
+Focus on providing insights about their spending with this specific merchant.

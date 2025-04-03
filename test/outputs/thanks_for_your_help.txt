@@ -1,0 +1,16 @@
+Question: Thanks for your help
+Intent: thank_you (Confidence: 0.16)
+
+Generated Prompt:
+--------------------------------------------------
+You're welcome! I'm glad I could help with your financial questions.
+
+Is there anything else you'd like to know about your:
+- Spending patterns
+- Income and salary
+- Savings and investments
+- Credit cards or loans
+- Budget and expenses
+
+I'm here to assist you with any other financial questions you might have. Feel free to ask! 
+--------------------------------------------------

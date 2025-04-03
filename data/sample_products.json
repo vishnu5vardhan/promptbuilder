@@ -1,0 +1,146 @@
+[
+  {
+    "product_id": "fd_001",
+    "name": "HDFC Bank Fixed Deposit",
+    "type": "fixed_deposit",
+    "interest_rate": 0.065,
+    "min_amount": 10000,
+    "max_amount": 10000000,
+    "min_tenure_months": 3,
+    "max_tenure_months": 120,
+    "early_withdrawal_penalty": 0.01,
+    "suitable_for": ["low_risk", "moderate_risk"],
+    "tags": ["safe", "guaranteed_returns", "tax_efficient"]
+  },
+  {
+    "product_id": "mf_001",
+    "name": "HDFC Mid-Cap Opportunities Fund",
+    "type": "mutual_fund",
+    "category": "equity",
+    "sub_category": "mid_cap",
+    "expense_ratio": 0.0185,
+    "min_investment": 5000,
+    "returns": {
+      "1y": 0.15,
+      "3y": 0.12,
+      "5y": 0.14
+    },
+    "risk_level": "high",
+    "suitable_for": ["high_risk", "long_term"],
+    "tags": ["growth", "equity", "wealth_creation"]
+  },
+  {
+    "product_id": "mf_002",
+    "name": "Axis Long Term Equity Fund",
+    "type": "mutual_fund",
+    "category": "equity",
+    "sub_category": "elss",
+    "expense_ratio": 0.0175,
+    "min_investment": 5000,
+    "lock_in_period_years": 3,
+    "returns": {
+      "1y": 0.12,
+      "3y": 0.11,
+      "5y": 0.13
+    },
+    "risk_level": "high",
+    "suitable_for": ["high_risk", "tax_saving"],
+    "tags": ["tax_saving", "section_80c", "wealth_creation"]
+  },
+  {
+    "product_id": "mf_003",
+    "name": "ICICI Prudential Balanced Advantage Fund",
+    "type": "mutual_fund",
+    "category": "hybrid",
+    "sub_category": "balanced_advantage",
+    "expense_ratio": 0.0165,
+    "min_investment": 5000,
+    "returns": {
+      "1y": 0.09,
+      "3y": 0.085,
+      "5y": 0.095
+    },
+    "risk_level": "moderate",
+    "suitable_for": ["moderate_risk", "balanced_returns"],
+    "tags": ["balanced", "dynamic_allocation", "stable_returns"]
+  },
+  {
+    "product_id": "mf_004",
+    "name": "SBI Debt Fund Series C",
+    "type": "mutual_fund",
+    "category": "debt",
+    "sub_category": "corporate_bond",
+    "expense_ratio": 0.0115,
+    "min_investment": 5000,
+    "returns": {
+      "1y": 0.065,
+      "3y": 0.062,
+      "5y": 0.068
+    },
+    "risk_level": "low",
+    "suitable_for": ["low_risk", "regular_income"],
+    "tags": ["debt", "low_risk", "income_generation"]
+  },
+  {
+    "product_id": "cc_001",
+    "name": "HDFC Regalia Credit Card",
+    "type": "credit_card",
+    "annual_fee": 2500,
+    "interest_rate": 0.36,
+    "credit_limit_range": [100000, 500000],
+    "rewards_program": "HDFC Rewards",
+    "rewards_rate": 0.02,
+    "benefits": ["airport_lounge_access", "milestone_benefits", "fuel_surcharge_waiver"],
+    "suitable_for": ["frequent_travellers", "luxury_spenders"],
+    "tags": ["premium", "travel", "dining"]
+  },
+  {
+    "product_id": "sl_001",
+    "name": "HDFC Home Loan",
+    "type": "home_loan",
+    "interest_rate_range": [0.0825, 0.095],
+    "processing_fee_percent": 0.005,
+    "min_loan_amount": 500000,
+    "max_loan_amount": 10000000,
+    "min_tenure_years": 5,
+    "max_tenure_years": 30,
+    "suitable_for": ["home_buyers", "property_investors"],
+    "tags": ["home", "property", "tax_benefits"]
+  },
+  {
+    "product_id": "sl_002",
+    "name": "ICICI Car Loan",
+    "type": "car_loan",
+    "interest_rate_range": [0.09, 0.11],
+    "processing_fee_percent": 0.01,
+    "min_loan_amount": 100000,
+    "max_loan_amount": 2000000,
+    "min_tenure_years": 1,
+    "max_tenure_years": 7,
+    "suitable_for": ["car_buyers"],
+    "tags": ["vehicle", "auto", "financing"]
+  },
+  {
+    "product_id": "ins_001",
+    "name": "HDFC Term Life Insurance",
+    "type": "insurance",
+    "sub_type": "term_life",
+    "coverage_range": [1000000, 50000000],
+    "premium_range": [5000, 50000],
+    "policy_term_range_years": [5, 40],
+    "suitable_for": ["family_providers", "loan_holders"],
+    "tags": ["protection", "risk_cover", "tax_benefits"]
+  },
+  {
+    "product_id": "ins_002",
+    "name": "ICICI Health Insurance",
+    "type": "insurance",
+    "sub_type": "health",
+    "coverage_range": [500000, 5000000],
+    "premium_range": [8000, 30000],
+    "policy_term_years": 1,
+    "renewable": true,
+    "suitable_for": ["families", "individuals"],
+    "tags": ["health", "medical", "hospitalization"]
+  }
+]

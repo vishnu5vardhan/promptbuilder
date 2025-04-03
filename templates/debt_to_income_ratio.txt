@@ -1,0 +1,26 @@
+User asked about their debt-to-income ratio. Here's the data:
+
+Income:
+- Monthly income: {monthly_income}
+
+Monthly debt obligations:
+{debt_obligations}
+
+Debt-to-Income Ratio calculation:
+- Total monthly debt payments: {total_monthly_debt}
+- Monthly income: {monthly_income}
+- Debt-to-Income Ratio: {dti_ratio}%
+
+Financial health assessment:
+- DTI ratio classification: {dti_classification}
+- Ideal DTI ratio: Below 36%
+- Impact on credit score: {credit_impact}
+- Impact on loan eligibility: {loan_eligibility_impact}
+
+Based on this information:
+1. Explain what their DTI ratio means for their financial health
+2. Compare to recommended standards
+3. Suggest steps they could take to improve their ratio if needed
+4. Highlight implications for future loan applications or credit
+
+Provide practical advice for managing and improving their debt-to-income situation.

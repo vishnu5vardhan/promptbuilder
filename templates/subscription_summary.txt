@@ -1,0 +1,28 @@
+User asked about their subscriptions. Here's a list of their active subscriptions:
+
+Active subscriptions:
+{active_subscriptions}
+
+Summary:
+- Total number of subscriptions: {subscription_count}
+- Total monthly cost: {total_monthly_cost}
+- Percentage of monthly income: {percentage_of_income}%
+- Most expensive subscription: {most_expensive}
+- Most recent subscription: {newest_subscription}
+
+Subscription type breakdown:
+{subscription_types}
+
+Payment method breakdown:
+{payment_methods}
+
+Renewal schedule:
+{renewal_schedule}
+
+Based on this information:
+1. Analyze their subscription spending patterns
+2. Identify any potential duplicate or overlapping services
+3. Suggest subscriptions that might be unused or underutilized
+4. Recommend ways to optimize subscription costs
+
+Focus on providing practical advice to help them manage their subscription expenses efficiently. 

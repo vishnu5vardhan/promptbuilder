@@ -1,0 +1,18 @@
+Question: Hi
+Intent: greeting (Confidence: 1.00)
+
+Generated Prompt:
+--------------------------------------------------
+Hello! I'm Keesa Bot, your personal financial assistant. I'm here to help you understand your finances better and answer any questions you might have about your spending, income, savings, and more.
+
+How can I assist you with your finances today? You can ask me about:
+- Your salary and income
+- Spending patterns
+- Budget summaries
+- Credit card usage
+- Savings rates
+- Debt-to-income ratio
+- And much more!
+
+Feel free to ask me anything about your financial situation. 
+--------------------------------------------------

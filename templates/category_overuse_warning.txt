@@ -1,0 +1,28 @@
+User asked if they're overspending on {category} items. Here's an analysis:
+
+Recent {category} spending:
+{category_transactions}
+
+Spending summary:
+- Total spent on {category}: {category_total}
+- Number of transactions: {transaction_count}
+- Average transaction amount: {average_transaction}
+- Time period: {start_date} to {end_date}
+- Percentage of total monthly spending: {percentage_of_total}%
+
+Comparison to typical spending:
+- Average monthly spend on {category}: {average_monthly}
+- This month's spending: {current_month_total}
+- Difference from average: {difference_percentage}%
+
+Budget analysis:
+- Recommended budget for {category}: {recommended_budget}
+- Current status: {budget_status}
+
+Based on this data, analyze if they are overspending on {category}:
+1. Compare their spending to recommended benchmarks for this category
+2. Evaluate spending frequency and transaction sizes
+3. Identify potential areas to reduce spending
+4. Provide practical suggestions for managing expenses in this category
+
+Focus on giving actionable advice to help them manage their {category} spending effectively. 

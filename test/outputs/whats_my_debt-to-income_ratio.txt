@@ -1,0 +1,36 @@
+Question: What's my debt-to-income ratio?
+Intent: debt_to_income_ratio (Confidence: 0.33)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their debt-to-income ratio. Here's the data:
+
+Income:
+- Monthly income: 75000
+
+Monthly debt obligations:
+- HDFC Home Loan: ₹15000
+- HDFC Car Loan: ₹5000
+- HDFC Credit Card (min payment): ₹5250.00
+- ICICI Credit Card (min payment): ₹1750.00
+
+Debt-to-Income Ratio calculation:
+- Total monthly debt payments: 27000.0
+- Monthly income: 75000
+- Debt-to-Income Ratio: 36.0%
+
+Financial health assessment:
+- DTI ratio classification: Moderate
+- Ideal DTI ratio: Below 36%
+- Impact on credit score: Neutral to slightly negative
+- Impact on loan eligibility: May qualify for most loans but with higher interest rates
+
+Based on this information:
+1. Explain what their DTI ratio means for their financial health
+2. Compare to recommended standards
+3. Suggest steps they could take to improve their ratio if needed
+4. Highlight implications for future loan applications or credit
+
+Provide practical advice for managing and improving their debt-to-income situation.
+
+--------------------------------------------------

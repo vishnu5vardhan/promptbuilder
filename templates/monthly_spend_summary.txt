@@ -1,0 +1,28 @@
+User asked about their monthly spending. Here's a summary of their spending for {month_name}:
+
+Total transactions: {transaction_count}
+Total spend: {total_spend}
+
+Breakdown by category:
+{category_breakdown}
+
+Top merchants:
+{top_merchants}
+
+Spending summary:
+- Highest spending category: {highest_category} ({highest_category_amount})
+- Lowest spending category: {lowest_category} ({lowest_category_amount})
+- Largest transaction: {largest_transaction_amount} ({largest_transaction_merchant})
+- Average transaction size: {average_transaction}
+
+Comparison to previous month:
+- Previous month total: {previous_month_total}
+- Change: {month_over_month_change}% {increase_decrease}
+
+Based on this data, provide insights about:
+1. Overall spending trends
+2. Categories where spending increased/decreased significantly
+3. Any unusual spending patterns
+4. Recommendations for budget management
+
+Focus on providing a clear overview of their monthly spending and actionable insights.

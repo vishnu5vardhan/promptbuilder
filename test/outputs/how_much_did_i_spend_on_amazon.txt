@@ -1,0 +1,26 @@
+Question: How much did I spend on Amazon?
+Intent: merchant_spend_summary (Confidence: 0.90)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their spending on AMAZON. Here are the relevant transactions:
+
+- Date: 2023-03-18, Amount: ₹8500 (debit), Description: AMAZON.IN
+- Date: 2023-03-20, Amount: ₹11500 (debit), Description: AMAZON.IN ELECTRONICS
+
+Transaction summary:
+- Total spend on AMAZON: 20000
+- Number of transactions: 2
+- Average transaction amount: 10000.0
+- Time period: 2023-03-18 to 2023-03-20
+- Most used payment method: hdfc_credit
+
+Based on this data, analyze their spending pattern with AMAZON:
+1. How frequently they use this merchant
+2. Whether spending is increasing or decreasing
+3. What percentage of their total spending this represents
+4. Any recommendations based on spending patterns
+
+Focus on providing insights about their spending with this specific merchant.
+
+--------------------------------------------------

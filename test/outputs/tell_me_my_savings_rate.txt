@@ -1,0 +1,41 @@
+Question: Tell me my savings rate
+Intent: savings_rate_query (Confidence: 0.44)
+
+Generated Prompt:
+--------------------------------------------------
+User asked about their savings rate. Here's their financial data:
+
+Income:
+- Monthly income: 75000
+
+Expenses and savings:
+- Total monthly expenses: 45000
+- Monthly savings: 30000
+- Savings rate: 40.0%
+
+Savings breakdown:
+- Regular savings: ₹9000.00
+- Retirement contributions: ₹12000.00
+- Emergency fund: ₹6000.00
+- Other investments: ₹3000.00
+
+Comparison to benchmarks:
+- Recommended savings rate: 15-20%
+- User's current savings rate: 40.0%
+- Assessment: Excellent - Well above recommended levels
+
+Historical trend:
+- January 2023: 22%
+- February 2023: 24%
+- March 2023: 25%
+- Current: 40.0%
+
+Based on this information:
+1. Evaluate their current savings rate
+2. Compare to recommended savings guidelines
+3. Suggest potential improvements if needed
+4. Highlight positive savings behaviors
+
+Provide a focused assessment of their savings habits and actionable recommendations for improvement.
+
+--------------------------------------------------

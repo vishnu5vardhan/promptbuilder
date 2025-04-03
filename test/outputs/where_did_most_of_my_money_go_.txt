@@ -1,0 +1,7 @@
+Question: Where did most of my money go last month?
+Intent: top_spend_category (Confidence: 0.44)
+
+Generated Prompt:
+--------------------------------------------------
+Error: Template file not found: /Users/vishn/Desktop/financial-prompt-engine/core/../templates/top_spend_category.txt
+--------------------------------------------------

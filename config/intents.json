@@ -1,0 +1,258 @@
+[
+    {
+      "intent": "salary_query",
+      "keywords": ["salary", "income", "credited", "monthly pay"],
+      "template": "salary_query.txt"
+    },
+    {
+      "intent": "merchant_spend_summary",
+      "keywords": ["amazon", "mcdonald", "zomato", "swiggy", "netflix", "spotify", "spent on", "how much on", "spending in", "spending at", "spend in", "spend at", "spending on", "spend on"],
+      "template": "merchant_spend_summary.txt"
+    },
+    {
+      "intent": "monthly_spend_summary",
+      "keywords": ["spending this month", "monthly expense", "total spent", "spent this month", "my spending", "spending", "expenses", "my expenses", "how much did i spend", "how much i spent"],
+      "template": "monthly_spend_summary.txt"
+    },
+    {
+      "intent": "debt_to_income_ratio",
+      "keywords": ["debt", "dti", "debt to income", "debt/income", "debt to income ratio", "income ratio"],
+      "template": "debt_to_income_ratio.txt"
+    },
+    {
+      "intent": "savings_rate_query",
+      "keywords": ["savings rate", "how much did i save", "save this month"],
+      "template": "savings_rate_query.txt"
+    },
+    {
+      "intent": "credit_card_usage",
+      "keywords": ["credit card usage", "used my card", "card spend"],
+      "template": "credit_card_usage.txt"
+    },
+    {
+      "intent": "spending_by_category",
+      "keywords": ["spending by category", "spending categories", "category spending"],
+      "template": "spending_by_category.txt"
+    },
+    {
+      "intent": "transaction_history",
+      "keywords": ["transaction history", "transactions", "recent transactions"],
+      "template": "transaction_history.txt"
+    },
+    {
+      "intent": "budget_summary",
+      "keywords": ["budget summary", "budget", "monthly budget"],
+      "template": "budget_summary.txt"
+    },
+    {
+      "intent": "spending_trends",
+      "keywords": ["spending trends", "spending pattern", "spending habits", "average daily spend"],
+      "template": "spending_trends.txt"
+    },
+    {
+      "intent": "financial_goals",
+      "keywords": ["financial goals", "savings goals", "investment goals"],
+      "template": "financial_goals.txt"
+    },
+    {
+      "intent": "investment_summary",
+      "keywords": ["investment summary", "investments", "portfolio"],
+      "template": "investment_summary.txt"
+    },
+    {
+      "intent": "bill_reminders",
+      "keywords": ["bill reminders", "upcoming bills", "bills due"],
+      "template": "bill_reminders.txt"
+    },
+    {
+      "intent": "financial_advice",
+      "keywords": ["financial advice", "money tips", "financial tips"],
+      "template": "financial_advice.txt"
+    },
+    {
+      "intent": "emergency_fund",
+      "keywords": ["emergency fund", "savings for emergencies", "emergency savings"],
+      "template": "emergency_fund.txt"
+    },
+    {
+      "intent": "retirement_planning",
+      "keywords": ["retirement planning", "retirement savings", "retirement fund"],
+      "template": "retirement_planning.txt"
+    },
+    {
+      "intent": "subscription_summary",
+      "keywords": ["subscriptions", "recurring payments", "monthly charges", "auto debit", "netflix", "spotify", "active subscriptions"],
+      "template": "subscription_summary.txt"
+    },
+    {
+      "intent": "top_spend_category",
+      "keywords": ["where did money go", "most of my money", "top spend", "spent the most", "biggest expense", "where did most of my money"],
+      "template": "top_spend_category.txt"
+    },
+    {
+      "intent": "category_overuse_warning",
+      "keywords": ["overspending", "too much on", "spending too much", "food delivery", "overspending on"],
+      "template": "category_overuse_warning.txt"
+    },
+    {
+      "intent": "transaction_count_summary",
+      "keywords": ["how many transactions", "transaction count", "number of transactions", "transactions did i make"],
+      "template": "transaction_count_summary.txt"
+    },
+    {
+      "intent": "largest_transaction",
+      "keywords": ["largest transaction", "biggest transaction", "highest transaction", "the largest transaction"],
+      "template": "largest_transaction.txt"
+    },
+    {
+      "intent": "daywise_spending_pattern",
+      "keywords": ["weekends", "weekdays", "day wise", "specific days", "daily spending"],
+      "template": "daywise_spending_pattern.txt"
+    },
+    {
+      "intent": "account_usage_summary",
+      "keywords": ["bank account use", "most used account", "which account", "which bank account", "use the most"],
+      "template": "account_usage_summary.txt"
+    },
+    {
+      "intent": "current_balance_query",
+      "keywords": ["current balance", "account balance", "how much in accounts", "total balance"],
+      "template": "current_balance_query.txt"
+    },
+    {
+      "intent": "bank_specific_spend",
+      "keywords": ["from hdfc", "debited from", "spent from", "bank specific"],
+      "template": "bank_specific_spend.txt"
+    },
+    {
+      "intent": "card_outstanding_summary",
+      "keywords": ["highest outstanding", "credit card outstanding", "card dues", "credit card dues"],
+      "template": "card_outstanding_summary.txt"
+    },
+    {
+      "intent": "card_due_reminders",
+      "keywords": ["due dates", "credit card due", "card payment", "due soon", "credit card due dates", "show me my credit card due dates"],
+      "template": "card_due_reminders.txt"
+    },
+    {
+      "intent": "card_utilization_analysis",
+      "keywords": ["utilization rate", "card utilization", "credit limit", "percentage used"],
+      "template": "card_utilization_analysis.txt"
+    },
+    {
+      "intent": "card_interest_query",
+      "keywords": ["interest", "paying interest", "interest rate", "finance charges"],
+      "template": "card_interest_query.txt"
+    },
+    {
+      "intent": "subscription_due_query",
+      "keywords": ["netflix bill", "subscription due", "when is due", "next bill", "netflix bill due", "when is my netflix bill due"],
+      "template": "subscription_due_query.txt"
+    },
+    {
+      "intent": "subscription_optimization",
+      "keywords": ["cancel subscription", "unused subscriptions", "stop subscription", "optimize subscription"],
+      "template": "subscription_optimization.txt"
+    },
+    {
+      "intent": "suspicious_activity_check",
+      "keywords": ["unusual spending", "suspicious", "fraud", "unexpected charges", "any unusual", "unusual this week"],
+      "template": "suspicious_activity_check.txt"
+    },
+    {
+      "intent": "cashflow_warning",
+      "keywords": ["spending more than earn", "negative cashflow", "overspending income"],
+      "template": "cashflow_warning.txt"
+    },
+    {
+      "intent": "custom_alert_setup",
+      "keywords": ["spending alert", "alert if", "notify when", "warn me"],
+      "template": "custom_alert_setup.txt"
+    },
+    {
+      "intent": "monthly_spending_comparison",
+      "keywords": ["compared to last month", "month over month", "spending comparison", "versus last month", "spending compared to last month", "compared to last month"],
+      "template": "monthly_spending_comparison.txt"
+    },
+    {
+      "intent": "spending_during_festival",
+      "keywords": ["during diwali", "festival spending", "holiday spend", "seasonal expense"],
+      "template": "spending_during_festival.txt"
+    },
+    {
+      "intent": "monthly_spend_detail",
+      "keywords": ["january spend", "specific month", "monthly breakdown", "month detail"],
+      "template": "monthly_spend_detail.txt"
+    },
+    {
+      "intent": "spending_trend_comparison",
+      "keywords": ["compare months", "last 3 months", "quarterly", "trend comparison"],
+      "template": "spending_trend_comparison.txt"
+    },
+    {
+      "intent": "goal_progress_check",
+      "keywords": ["saving enough", "goal progress", "financial goals", "target achievement"],
+      "template": "goal_progress_check.txt"
+    },
+    {
+      "intent": "cost_cutting_suggestions",
+      "keywords": ["reduce expenses", "cut costs", "save money", "spending less"],
+      "template": "cost_cutting_suggestions.txt"
+    },
+    {
+      "intent": "affordability_analysis",
+      "keywords": ["afford", "can i buy", "purchase decision", "vacation affordable"],
+      "template": "affordability_analysis.txt"
+    },
+    {
+      "intent": "budget_planner",
+      "keywords": ["create budget", "budget for next month", "spending plan", "allocation"],
+      "template": "budget_planner.txt"
+    },
+    {
+      "intent": "salary_prediction",
+      "keywords": ["next salary", "predict salary", "payday", "next income"],
+      "template": "salary_prediction.txt"
+    },
+    {
+      "intent": "pre_payday_analysis",
+      "keywords": ["before payday", "pre payday", "spend before salary", "before income"],
+      "template": "pre_payday_analysis.txt"
+    },
+    {
+      "intent": "emi_advice_query",
+      "keywords": ["convert to emi", "emi conversion", "installment", "pay in parts"],
+      "template": "emi_advice_query.txt"
+    },
+    {
+      "intent": "financial_health_tracker",
+      "keywords": ["financial health", "improving finances", "money health", "financial status"],
+      "template": "financial_health_tracker.txt"
+    },
+    {
+      "intent": "greeting",
+      "keywords": ["hi", "hello", "hey", "greetings", "good morning", "good afternoon", "good evening"],
+      "template": "greeting.txt"
+    },
+    {
+      "intent": "bot_identity",
+      "keywords": ["who are you", "what are you", "your name", "tell me about yourself", "who am i talking to"],
+      "template": "bot_identity.txt"
+    },
+    {
+      "intent": "bot_capabilities",
+      "keywords": ["what can you do", "what do you do", "how can you help", "your capabilities", "your functions", "help me with"],
+      "template": "bot_capabilities.txt"
+    },
+    {
+      "intent": "thank_you",
+      "keywords": ["thank you", "thanks", "appreciate it", "grateful"],
+      "template": "thank_you.txt"
+    },
+    {
+      "intent": "goodbye",
+      "keywords": ["bye", "goodbye", "see you", "talk later", "end conversation"],
+      "template": "goodbye.txt"
+    }
+]
+  

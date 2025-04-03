@@ -1,0 +1,36 @@
+Question: Am I overspending on food delivery?
+Intent: category_overuse_warning (Confidence: 0.90)
+
+Generated Prompt:
+--------------------------------------------------
+User asked if they're overspending on food items. Here's an analysis:
+
+Recent food spending:
+- Date: 2023-03-10, Amount: ₹2500 (debit), Description: ZOMATO ORDER
+- Date: 2023-03-12, Amount: ₹2200 (debit), Description: SWIGGY ORDER
+- Date: 2023-03-15, Amount: ₹1500 (debit), Description: SWIGGY ORDER
+
+Spending summary:
+- Total spent on food: 6200
+- Number of transactions: 3
+- Average transaction amount: 2066.6666666666665
+- Time period: 2023-03-10 to 2023-03-15
+- Percentage of total monthly spending: 4.62%
+
+Comparison to typical spending:
+- Average monthly spend on food: 4960.0
+- This month's spending: 6200
+- Difference from average: 25%
+
+Budget analysis:
+- Recommended budget for food: 11250.0
+- Current status: Within budget
+
+Based on this data, analyze if they are overspending on food:
+1. Compare their spending to recommended benchmarks for this category
+2. Evaluate spending frequency and transaction sizes
+3. Identify potential areas to reduce spending
+4. Provide practical suggestions for managing expenses in this category
+
+Focus on giving actionable advice to help them manage their food spending effectively. 
+--------------------------------------------------

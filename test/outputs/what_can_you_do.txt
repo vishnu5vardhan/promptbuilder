@@ -1,0 +1,49 @@
+Question: What can you do?
+Intent: bot_capabilities (Confidence: 0.19)
+
+Generated Prompt:
+--------------------------------------------------
+I can help you with a wide range of financial queries and tasks. Here are some of the things I can do for you:
+
+1. **Income Analysis**:
+   - Track your salary and income patterns
+   - Analyze salary trends and changes
+
+2. **Spending Analysis**:
+   - Show your spending by category, merchant, or time period
+   - Identify your top spending categories
+   - Track specific merchant spending (e.g., "How much did I spend on Amazon?")
+   - Flag unusual spending patterns
+
+3. **Account Management**:
+   - Display your current account balances
+   - Show recent transactions
+   - Track which accounts you use most frequently
+
+4. **Credit Cards**:
+   - Monitor credit card usage and utilization
+   - Track upcoming due dates and minimum payments
+   - Analyze interest expenses
+
+5. **Budgeting**:
+   - Provide budget summaries
+   - Compare spending to previous periods
+   - Suggest cost-cutting opportunities
+
+6. **Debt Management**:
+   - Calculate your debt-to-income ratio
+   - Track loan balances and payments
+   - Provide EMI advice
+
+7. **Savings**:
+   - Calculate your savings rate
+   - Track progress toward financial goals
+   - Evaluate emergency fund adequacy
+
+8. **Subscriptions**:
+   - List your active subscriptions
+   - Track subscription due dates
+   - Identify potentially unused subscriptions
+
+Just ask me a question about any of these areas, and I'll provide you with personalized insights based on your financial data. 
+--------------------------------------------------

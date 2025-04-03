@@ -1,0 +1,25 @@
+User asked about their spending in the {requested_category} category. Here's a summary:
+
+Transactions in {requested_category} category:
+{category_transactions}
+
+Summary:
+- Total spent on {requested_category}: {category_total}
+- Number of transactions: {transaction_count}
+- Average transaction amount: {average_transaction}
+- Time period: {start_date} to {end_date}
+- Percentage of total monthly spending: {percentage_of_total}%
+
+Monthly trend:
+{monthly_trend}
+
+Top merchants in this category:
+{top_merchants}
+
+Based on this data, analyze their spending pattern for {requested_category}:
+1. How their spending in this category compares to overall spending
+2. Whether spending is increasing or decreasing
+3. Which merchants they use most frequently in this category
+4. Any recommendations based on spending patterns
+
+Focus on providing specific insights about their spending in the {requested_category} category. 

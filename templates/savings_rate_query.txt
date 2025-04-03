@@ -1,0 +1,28 @@
+User asked about their savings rate. Here's their financial data:
+
+Income:
+- Monthly income: {monthly_income}
+
+Expenses and savings:
+- Total monthly expenses: {total_monthly_expenses}
+- Monthly savings: {monthly_savings}
+- Savings rate: {savings_rate}%
+
+Savings breakdown:
+{savings_breakdown}
+
+Comparison to benchmarks:
+- Recommended savings rate: 15-20%
+- User's current savings rate: {savings_rate}%
+- Assessment: {savings_assessment}
+
+Historical trend:
+{savings_trend}
+
+Based on this information:
+1. Evaluate their current savings rate
+2. Compare to recommended savings guidelines
+3. Suggest potential improvements if needed
+4. Highlight positive savings behaviors
+
+Provide a focused assessment of their savings habits and actionable recommendations for improvement.
